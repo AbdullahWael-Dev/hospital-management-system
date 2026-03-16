@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
+    "name": "abdallah/hospital-management-system",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "A comprehensive Hospital Management System built with Laravel 8, Livewire, and Tailwind CSS.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
