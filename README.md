@@ -1,21 +1,17 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/-%E2%9C%A3-red?style=for-the-badge" alt="cross" height="40"/>
-
 # Hospital Management System
-### نظام إدارة المستشفيات الشامل
 
 *A robust, full-featured hospital management platform built for real medical operations*
 
 <br/>
 
-[![Laravel](https://img.shields.io/badge/Laravel-8.x-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
-[![Livewire](https://img.shields.io/badge/Livewire-2.x-4E56A6?style=flat-square&logo=livewire&logoColor=white)](https://laravel-livewire.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white)](https://laravel-livewire.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://mysql.com)
 [![Pusher](https://img.shields.io/badge/Pusher-Realtime-300D4F?style=flat-square&logo=pusher&logoColor=white)](https://pusher.com)
 
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 [![PHP](https://img.shields.io/badge/PHP-8.0+-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 
